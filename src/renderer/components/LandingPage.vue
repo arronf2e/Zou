@@ -42,10 +42,12 @@
         rgba(229, 229, 229, .9) 100%
       );
     height: 100vh;
-    padding: 60px 80px;
-    width: 100vw;
+    /* padding: 60px 80px; */
+    width: 100vw; 
   }
-
+  .markdown-body {
+    height: 100%;
+  }
   #logo {
     height: auto;
     margin-bottom: 20px;
